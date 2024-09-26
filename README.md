@@ -1,4 +1,12 @@
 # Welcome to the Gemini API Cookbook
+
+Google Gemini 官方範例教學，使用 Python，提供 ipynb 格式。
+
+Google gemini-api 官方文件：
+https://ai.google.dev/gemini-api/docs/models/gemini?hl=zh-tw
+
+搭配部落格中文文章教學實作：[如何使用 Google 的 Gemini 模型 API？(基礎教學，附上 Python 範例程式)](https://blog.jiatool.com/posts/gemini_api/)
+
 This is a collection of guides and examples for the Gemini API, including [quickstart](https://github.com/google-gemini/cookbook/tree/main/quickstarts) tutorials for writing prompts and using different features of the API, and [examples](https://github.com/google-gemini/cookbook/tree/main/examples) of things you can build.
 
 ## Get started with the Gemini API
